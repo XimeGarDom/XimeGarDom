@@ -12,7 +12,8 @@ En este repositorio encontrarás algunos de los proyectos en los que he trabajad
 - Tableau
 - Python
 - SQL
-- Microsoft Office 
-
+- Microsoft Office
+- Power BI
+  
 ## Puedes encontrarme y contacterme en: 
 -[LinkedIn](https://www.linkedin.com/in/ximegardom/) 
